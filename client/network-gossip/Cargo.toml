@@ -20,7 +20,7 @@ futures-timer = "3.0.1"
 libp2p = "0.51.3"
 log = "0.4.17"
 schnellru = "0.2.1"
-tracing = "0.1.29"
+tracing = "0.1.40"
 prometheus-endpoint = { package = "substrate-prometheus-endpoint", version = "0.10.0-dev", path = "../../utils/prometheus" }
 sc-network = { version = "0.10.0-dev", path = "../network/" }
 sc-network-common = { version = "0.10.0-dev", path = "../network/common" }
